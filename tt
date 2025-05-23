@@ -1,0 +1,9 @@
+Olá {name},
+
+A hora atual é: {time}.  
+Data: {date}  
+Código aleatório: {random:10}
+
+
+
+
